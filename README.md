@@ -15,3 +15,4 @@ This prototype has been created by a group of high school students of Colégio A
 * Lucas Favi Bocca
 * Rafael Baquero
 * Viliam Hirata
+* [Teacher] Marcela Alexandra da Silva
