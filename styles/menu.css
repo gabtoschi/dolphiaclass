@@ -1,0 +1,150 @@
+body {
+	height: 100%;
+	background-color: #DEF7FE;
+}
+
+#fundomenu{
+	width: 13%;
+    height: 100%;
+	position: fixed;
+	left: 0%;
+	top: 0%;
+	background-color: #646464;
+}
+
+#content{
+	width: 86%;
+    height: 99%;
+	position: absolute;
+	left: 14%;
+	top: 1%;
+}
+
+#escrito{
+	width: 100%;
+}
+
+#bv{
+	position: absolute;
+	top: 10.5%;
+	left: 8%;
+	font-family: Courier, sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+#sair{
+	position: absolute;
+	left: 40%;
+	bottom: 3%;
+	text-decoration: none;
+	font-weight: bold;
+	color: #FF3939;
+	text-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
+}
+
+#nome{
+	color: #A9B3FF;
+	position: absolute;
+	top: 11%;
+	right: 8%;
+	font-family: Garamond, Georgia, serif;
+}
+
+ul{
+	list-style-type:none;
+	position: absolute;
+	top: 20%;
+	right: 10%;
+}
+
+.menu{
+	text-decoration: none;
+	font-weight: 900;
+	font-family: Verdana, Arial, sans-serif;
+	color: #FFFFFF;
+}
+
+.menu:hover{
+	color: #BDC5FF;
+}
+
+.voltar {
+	text-decoration: none;
+	font-weight: 900;
+	font-family: Verdana, Arial, sans-serif;
+	color: #00A2EA;
+}
+
+.voltar:hover{
+	color: #BDC5FF;
+}
+
+#titulo {
+	text-decoration: none;
+	font-weight: 900;
+	font-family: Verdana, Arial, sans-serif;
+	color: #0095D5;
+}
+
+#titulo:active {
+	text-decoration: none;	
+}
+
+#datauser {
+	text-decoration: none;
+	font-weight: lighter;
+	font-style: italic;
+	font-family: Verdana, Arial, sans-serif;
+	color: #00A2EA;
+}
+
+th {
+	text-align: center;
+	color: #0095D5;  
+}
+
+tr {
+	text-align: center;
+}
+
+td {
+    border-right-style: solid;
+    border-left-style: solid;
+    border-color: #0095D5;
+    border-width: 1px;
+}
+
+.postoflist {
+	text-decoration: none;
+	color: #0095D5;
+	font-weight: 900;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+label {
+	text-decoration: none;
+	color: #0095D5;
+	font-weight: 900;	
+}
+
+.botao{
+	border: 2px solid #a5c5ff;
+	border-radius: 5px;
+	background-color: #00286f;
+	font-weight: bold;
+	color: #a5c5ff;
+	font-size: 15px;
+}
+
+#imagemdoview {
+	max-width: 99%;
+}
+
+#logo {
+	height: 100%;
+}

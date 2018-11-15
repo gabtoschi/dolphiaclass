@@ -1,0 +1,130 @@
+em {
+	font-style: normal;
+}
+
+body {
+	background-color: #DEF7FE;
+}
+
+#fundomenu {
+	margin-top: -5px;
+	padding: 0;
+	background-color: #646464;
+}
+
+#bv{
+	font-family: Courier, sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+#nome{
+	color: #A9B3FF;
+	font-family: Garamond, Georgia, serif;
+}
+
+.menu{
+	text-decoration: none;
+	font-weight: 900;
+	font-family: Verdana, Arial, sans-serif;
+	color: #FFFFFF;
+}
+
+.menu:hover{
+	color: #BDC5FF;
+}
+
+#sair{
+	text-decoration: none;
+	font-weight: bold;
+	color: #FF3939;
+	text-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
+}
+
+.voltar {
+	text-decoration: none;
+	font-weight: 900;
+	font-family: Verdana, Arial, sans-serif;
+	color: #00A2EA;
+}
+
+.voltar:hover{
+	color: #BDC5FF;
+}
+	
+label {
+	text-decoration: none;
+	color: #0095D5;
+	font-weight: 900;	
+}
+
+.botao{
+	border: 2px solid #a5c5ff;
+	border-radius: 5px;
+	background-color: #00286f;
+	font-weight: bold;
+	color: #a5c5ff;
+	font-size: 15px;
+}
+
+th {
+	text-align: center;
+	color: #0095D5;  
+}
+
+tr {
+	text-align: center;
+}
+
+td {
+    border-right-style: solid;
+    border-left-style: solid;
+    border-color: #0095D5;
+    border-width: 1px;
+}
+
+.postoflist {
+	text-decoration: none;
+	color: #0095D5;
+	font-weight: 900;
+}
+
+table {
+	border-collapse: collapse;
+	
+}
+
+#imagemdoview {
+	max-width: 99%;
+}
+
+#titulo {
+	text-decoration: none;
+	font-weight: 900;
+	font-family: Verdana, Arial, sans-serif;
+	color: #0095D5;
+}
+
+#titulo:active {
+	text-decoration: none;	
+}
+
+#datauser {
+	text-decoration: none;
+	font-weight: lighter;
+	font-style: italic;
+	font-family: Verdana, Arial, sans-serif;
+	color: #00A2EA;
+}
+
+#logo {
+	margin-bottom: 0px;
+	width: 70%;
+}
+
+#divdologo{
+	margin: 0;
+	padding: 0;
+	width: 99%;
+}
