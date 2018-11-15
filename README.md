@@ -1,4 +1,4 @@
-![Dolphia Mascot](/images/logo_mobile.png)
+![Dolphia Mascot](/images/favicon.ico)
 ![Dolphia Logo](/images/login_header.png)
 
 # Dolphia Class
